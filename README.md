@@ -1,4 +1,4 @@
-# Reusmo ferramenta AWS Step Functions
+# Resumo ferramenta AWS Step Functions
 
 # Aplicações distribuídas:
 Aplicações distribuídas são sistemas em que componentes localizados em diferentes máquinas se comunicam e coordenam suas ações para alcançar um objetivo comum. Esses sistemas são projetados para melhorar a escalabilidade, a disponibilidade e a tolerância a falhas, permitindo que diferentes partes da aplicação sejam executadas em paralelo e em diferentes locais.
